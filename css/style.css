@@ -1,0 +1,17 @@
+biv h1{
+	color:red;
+}
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+}
+label{
+	font size:25px ;
+}
+.first name,.last name,.email,{
+	width: 90px;
+	height: 25px;
+	padding: 10px;
+	font-size: 18px;
+}
